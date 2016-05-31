@@ -1,0 +1,2 @@
+# docs
+Phire CMS Documentation
