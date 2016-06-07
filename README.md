@@ -1,3 +1,0 @@
-Phire CMS Documentation
-=======================
-
