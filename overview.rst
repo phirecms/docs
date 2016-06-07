@@ -43,4 +43,4 @@ repository on `Github`_. Additional support and communication is maintained in t
 .. _Twitter: https://twitter.com/phirecms
 .. _API documentation: http://api.phirecms.org/
 .. _Pop PHP Framework: http://www.popphp.org/
-.. _here: https://docs.popphp.org/
+.. _here: http://docs.popphp.org/
