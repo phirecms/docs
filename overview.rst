@@ -19,7 +19,7 @@ users permissions, to registering modules to extend the application.
 Of course, with content management systems being one of the most common web applications
 out there these days, the main use-case that is available for download is using Phire as
 a full-featured CMS. This is achieved by using a series of pre-written modules that can
-be installed to extend the base functionality of Phire.
+be installed to extend the base functionality at Phire's core.
 
 About Phire
 -----------
@@ -42,5 +42,5 @@ repository on `Github`_. Additional support and communication is maintained in t
 .. _Gitter chat room: https://gitter.im/phirecms/2
 .. _Twitter: https://twitter.com/phirecms
 .. _API documentation: http://api.phirecms.org/
-.. _Pop PHP Framework: https://www.popphp.org/
+.. _Pop PHP Framework: http://www.popphp.org/
 .. _here: https://docs.popphp.org/
